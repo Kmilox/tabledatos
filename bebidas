@@ -7,13 +7,13 @@
 # sexo: género del estudiante
 # muneca: diametro de la muñeca derecha en centímetros
 # biceps: diametro del biceps derecho en centímetros
-edad	peso	altura	sexo	muneca	biceps
-43	87.3	188.0	Hombre	12.2	35.8
-65	80.0	174.0	Hombre	12.0	35.0
-45	82.3	176.5	Hombre	11.2	38.5
-37	73.6	180.3	Hombre	11.2	32.2
-55	74.1	167.6	Hombre	11.8	32.9
-33	85.9	188.0	Hombre	12.4	38.5
+id_empresas	peso	altura	sexo	muneca	biceps
+43	        87.3	 188.0	Hombre	12.2	35.8
+65	        80.0	174.0	Hombre	12.0	35.0
+45	        82.3	176.5	Hombre	11.2	38.5
+37	        73.6	180.3	Hombre	11.2	32.2
+55	        74.1	167.6	Hombre	11.8	32.9
+33	        85.9	188.0	Hombre	12.4	38.5
 25	73.2	180.3	Hombre	10.6	38.3
 35	76.3	167.6	Hombre	11.3	35.0
 28	65.9	183.0	Hombre	10.2	32.1
