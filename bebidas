@@ -1,7 +1,7 @@
 # A continuación un conjunto de medidas corporales tomadas
 # a un grupo de estudiantes en una universidad de Medellín.
 # A continuación la variables de la base de datos:
-# edad: edad del estudiante en años
+# id_empresas: edad del estudiante en años
 # peso: peso del estudiante en kilogramos
 # altura: estatura del estudiante en centímetros
 # sexo: género del estudiante
